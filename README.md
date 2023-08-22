@@ -11,6 +11,6 @@ Random Forest
 K-Nearest Neighbor
 Naive Bayes
 
-Project Slideshow:
+Project Slideshow: (includes videos on final slides)
 
 https://docs.google.com/presentation/d/1wUqrnS2tNXFJghx6HY-e9bS7nuB8uAecHaThCWvBwWQ/edit?usp=sharing
