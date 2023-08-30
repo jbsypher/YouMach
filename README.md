@@ -4,11 +4,11 @@ A  machine learning application meant to allow everyday people to analyze data i
 
 The project used the following machine learning and statistical analysis techniques:
 
-Linear Regression
-Gradient Boosting Machine 
-Decision Tree
-Random Forest 
-K-Nearest Neighbor
+Linear Regression,
+Gradient Boosting Machine,
+Decision Tree,
+Random Forest,
+K-Nearest Neighbor,
 Naive Bayes
 
 Project Slideshow: (includes videos on final slides)
